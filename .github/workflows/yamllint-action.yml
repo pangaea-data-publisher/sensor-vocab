@@ -1,3 +1,4 @@
+---
 name: 'Yamllint GitHub Actions'
 on:
   - push
