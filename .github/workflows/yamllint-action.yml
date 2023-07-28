@@ -14,5 +14,4 @@ jobs:
         with:
           yamllint_file_or_dir: 'ontology/*'
           yamllint_strict: false
-          yamllint_config_filepath: '.yamllint-config.yml'
           yamllint_comment: true
