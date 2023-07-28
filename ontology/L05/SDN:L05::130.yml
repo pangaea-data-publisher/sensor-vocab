@@ -1,6 +1,5 @@
 ---
--prefLabel" - - - -
-: CTD
+- prefLabel: CTD
 definition: A reusable instrument that always simultaneously measures conductivity
   and temperature (for salinity) and pressure (for depth).
 id: http://vocab.nerc.ac.uk/collection/L05/current/130/
